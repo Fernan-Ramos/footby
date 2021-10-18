@@ -1,3 +1,3 @@
 # footby
 
-React project build with Typescript and Styled components
+React project built with Typescript and Styled components
